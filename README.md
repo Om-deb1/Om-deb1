@@ -5,7 +5,7 @@
 
 ### 🧠 About Me
 
-- 🎓 First-year student figuring life out (with Wi-Fi that hates me)
+- 🎓 College student figuring life out (with Wi-Fi that hates me)
 - ✂️ Dipping my toes into video editing (DaVinci Resolve is my current enemy/friend)
 - 📝 Helping friends with student projects, PPTs, and documents
 - 🧑‍💻 Slowly exploring freelancing, side hustles & creative stuff
@@ -15,8 +15,8 @@
 
 ### 🧰 Tools I Use
 
-- DaVinci Resolve (beginner)
-- Canva (for posters & basic designs)
+- DaVinci Resolve (expert)
+- Canva (for posters & designs)
 - PowerPoint, MS Word (classic student stuff)
 - GitHub (because this README exists 😎)
 
@@ -34,7 +34,7 @@
 ### 🛸 Catch Me Here (Eventually)
 
 - IG: @_om.deb (when I post something worth looking at)
-- Email: thecyberhangout@gmail.com 
+- Email: omdeb796@gmail.com 
 - More coming soon 👀
 
 ---
